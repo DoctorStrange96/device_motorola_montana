@@ -1,10 +1,10 @@
 #
-# system.prop for sanders
+# system.prop for montana
 #
 
 # Ril
 rild.libargs=-d /dev/smd0
 
 # Sensors
-ro.hardware.sensors=sanders
+ro.hardware.sensors=montana
 ro.mot.sensors.glance_approach=false
